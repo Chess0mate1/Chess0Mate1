@@ -1,6 +1,6 @@
 <h1 align="center">Shalom 👋, I'm Andrey Gomulko</h1>
 <h3 align="center">A self-proclaimed .net developer from the depths of Russia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7U4.gif">
+<img align="right" alt="chess" width="400" src="[https://i.gifer.com/7U4.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 
 
