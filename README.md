@@ -1,9 +1,8 @@
 <h1 align="center">Shalom 👋, I'm Andrey Gomulko</h1>
 <h3 align="center">A self-proclaimed .net developer from the depths of Russia</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7U4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chess0mate1&label=Profile%20views&color=0e75b6&style=flat" alt="chess0mate1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chess0mate1" alt="chess0mate1" /></a> </p>
 
 - 🔭 I’m currently working on [AexFilms](https://github.com/Chess0mate1/AexFilms)
 
