@@ -1,6 +1,6 @@
 
 <p align='center'>
-  <img src='https://th.bing.com/th/id/OIG.Btkv9hav3jr9WBVpib83?pid=ImgGn' Height='600' Width="800">
+  <img src='https://th.bing.com/th/id/OIG.Btkv9hav3jr9WBVpib83?pid=ImgGn'>
 </p>
 
 <h1 align="center">Shalom 👋, I'm Andrey Gomulko</h1>
