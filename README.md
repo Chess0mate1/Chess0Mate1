@@ -1,6 +1,8 @@
+![MasterHead](https://th.bing.com/th/id/OIG.Btkv9hav3jr9WBVpib83?pid=ImgGn)
+
 <h1 align="center">Shalom 👋, I'm Andrey Gomulko</h1>
 <h3 align="center">A self-proclaimed .net developer from the depths of Russia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7U4.gif">
+<img align="right" alt="ChessCoding" width="400" src="https://gifer.com/7U4.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chess0mate1&label=Profile%20views&color=0e75b6&style=flat" alt="chess0mate1" /> </p>
 
@@ -8,9 +10,9 @@
 
 - 💬 Ask me about **Wpf, maui, mvvm, maybe there is more if I'm not arrogant**
 
-- 📫 How to reach me **https://t.me/andrey_gomulko**
+- 📫 How to reach me [Telegram](https://t.me/andrey_gomulko)
 
-- 📄 Know about my experiences [https://hh.ru/resume/6e82df73ff0b0db3320039ed1f6a506e39425a](https://hh.ru/resume/6e82df73ff0b0db3320039ed1f6a506e39425a)
+- 📄 Know about my experiences [Hh.ru](https://hh.ru/resume/6e82df73ff0b0db3320039ed1f6a506e39425a)
 
 - ⚡ Fun fact **Make a hobby a job and you... will have to look for both a hobby and a job**
 
