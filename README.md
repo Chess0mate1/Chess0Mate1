@@ -1,8 +1,11 @@
-![MasterHead](https://th.bing.com/th/id/OIG.Btkv9hav3jr9WBVpib83?pid=ImgGn)
+
+<p align='center'>
+  <img src='https://th.bing.com/th/id/OIG.Btkv9hav3jr9WBVpib83?pid=ImgGn' Height='600' Width="800">
+</p>
 
 <h1 align="center">Shalom 👋, I'm Andrey Gomulko</h1>
 <h3 align="center">A self-proclaimed .net developer from the depths of Russia</h3>
-<img align="right" alt="ChessCoding" width="400" src="https://gifer.com/7U4.gif" >
+<img align="right" alt="ChessCoding" width="300" height="300" src="https://th.bing.com/th/id/OIG.Btkv9hav3jr9WBVpib83?pid=ImgGn" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chess0mate1&label=Profile%20views&color=0e75b6&style=flat" alt="chess0mate1" /> </p>
 
