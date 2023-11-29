@@ -1,6 +1,6 @@
 
 <p align='center'>
-  <img src='https://th.bing.com/th/id/OIG.Btkv9hav3jr9WBVpib83?pid=ImgGn'>
+  <img src='https://th.bing.com/th/id/OIG.ix6Z3jGAJwao_5kTMWUu?pid=ImgGn'>
 </p>
 
 <h1 align="center">Shalom 👋, I'm Andrey Gomulko</h1>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [AexFilms](https://github.com/Chess0mate1/AexFilms)
 
-- 💬 Ask me about **Wpf, maui, mvvm**, maybe there is more if I'm not arrogant
+- 💬 Ask me about **Wpf, Maui, Mvvm**, maybe there is more if I'm not arrogant
 
 - 📫 How to reach me [Telegram](https://t.me/andrey_gomulko)
 
